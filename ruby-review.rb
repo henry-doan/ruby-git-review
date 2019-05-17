@@ -1,5 +1,5 @@
 def method
-  puts "i coded"
+  puts "I coded!"
 end
 
 method
